@@ -54,7 +54,13 @@
 }
 
 /* ==== clerk class override ===== */
+.socialButtonsIconButton__github {
+  filter: invert(1);
+}
 
+.cl-internal-1dauvpw {
+  display: hidden;
+}
 .cl-userButtonPopoverActionButtonIcon {
   color: white;
 }
